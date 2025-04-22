@@ -231,19 +231,19 @@
             </div>
             <div>
                 <h4>Public Repositories</h4>
-                <span>87</span>
+                <span>10</span>
             </div>
             <div>
                 <h4>Total Stars </h4>
-                <span>87</span>
+                <span>4</span>
             </div>
             <div>
                 <h4>Following </h4>
-                <span>87</span>
+                <span>2</span>
             </div>
             <div>
                 <h4>Followers</h4>
-                <span>87</span>
+                <span>5</span>
             </div>
             <h3>Top Repositories</h3>
             <ul>
